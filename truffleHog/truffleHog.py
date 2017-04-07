@@ -24,7 +24,7 @@ def main():
     project_path = output["project_path"]
     shutil.rmtree(project_path, onerror=del_rw)
 
-short_threshold = "qwertyuiopasdfghjkl"
+short_threshold = "_fFuVyT$cV'[53:"
 BASE64_CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/="
 HEX_CHARS = "1234567890abcdefABCDEF"
 
